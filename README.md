@@ -4,3 +4,5 @@ This repository contains a skeleton package that can be used as the basis for yo
 You can fork this repository to your own GitHub account.
 
 To view the full tutorial, visit the [tutorial page](https://gblsma.github.io/docassemble-MotionTutorial/).
+
+A live demo of this Clerk is avaliable on [Clerical](http://demo.clerical.ai/start/motiontutorial).
